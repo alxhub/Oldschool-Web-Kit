@@ -1,6 +1,8 @@
 Old-School-Web-Kit
 ==================
 
-This app is designed to be a quick and easy to deploy web solution for developers.
+A quick and easy web app in PHP, mostly for developers.
 
-It's meant to provide a basic platform for simple sites, and/or a good starting point for custom projects.
+It provides a basic platform for simple sites, and a starting point for custom projects.
+
+Comments are welcome - particularly regarding security and speed.  Thanks in advance.
