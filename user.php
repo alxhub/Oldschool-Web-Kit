@@ -6,7 +6,7 @@ return USER::$output;
 
 class USER{
     static
-    $db_file = './_HOLDING/sqlite/webapp.sqlite3'
+    $db_file = './_gitignore/sqlite/webapp.sqlite3'
     ,$users_table = 'users'
     ,$cookies_table = 'cookies'
     ,$visitors_table = 'visitors'

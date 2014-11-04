@@ -6,7 +6,7 @@ return RIBBONS::$output;
 
 class RIBBONS{
     static
-    $db_file = './_HOLDING/sqlite/webapp.sqlite3'
+    $db_file = './_gitignore/sqlite/webapp.sqlite3'
     ,$ribbons_table = 'ribbons'
     ,$bad_db = '<p class="error message">Database failure.  Please try again.</p>'
     ,$output = null
