@@ -1,0 +1,45 @@
+/* Downloader */
+.downloader>.wrapper>ul.hyperedit>li{
+    width:auto;
+    height:auto;
+}
+.downloader>.wrapper>ul.hyperedit>li a.menu{
+    font-size:100%;
+}
+.downloader>.wrapper>ul>li .stats,
+.downloader>.wrapper>ul>li .description{
+    font-size:66%;
+    line-height:1em;
+}
+.downloader>.wrapper>ul>li .stats{
+}
+.downloader>.wrapper>ul>li .stats>table{
+    float:left;
+    width:50%;
+    border:1px dotted black;
+}
+.downloader>.wrapper>ul>li .stats>table+table{
+    border-left:none;
+}
+.downloader>.wrapper>ul>li .stats>tbody{
+}
+.downloader>.wrapper>ul>li .stats tbody td{
+    text-align:right;
+}
+.downloader>.wrapper>ul>li .stats tbody td+td{
+    text-align:left;
+    border-left:1px dotted black;
+}
+.downloader>.wrapper>ul>li .stats tbody tr+tr td{
+    border-top:1px dotted black;
+}
+.downloader>.wrapper>ul>li .description ul{
+    margin:0;
+    padding:0;
+    padding-left:5px;
+    font-size:smaller;
+    list-style:none;
+}
+.downloader>.wrapper>ul>li .description>div{
+    padding:5px;
+}
