@@ -1,4 +1,4 @@
-Old-School-Web-Kit
+Oldschool-Web-Kit
 ==================
 
 A quick and easy web app in PHP, mostly for developers.
